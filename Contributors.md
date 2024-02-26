@@ -26,6 +26,7 @@ happy# Contributors
 - [Amila999](https://github.com/Amila999)
 - [NightLighter423](https://github.com/NightLighter423)
 - [Rawoot Fly](https://github.com/rawoot2)
+- [Ali Hussain](https://github.com/itsalijacked)
 - [Amanda Downie](https://github.com/aninymous412)
 - [Muhammad Sajeedul Haque](https://github.com/Sajeed7804)
 - [Ptitet](https://github.com/Ptitet)
